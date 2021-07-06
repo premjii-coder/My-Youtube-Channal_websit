@@ -1,0 +1,9 @@
+.copy_write_footer{
+    position: fixed;
+    color: violet;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+}
